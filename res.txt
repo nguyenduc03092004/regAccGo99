@@ -1,0 +1,48 @@
+
+{"userName":"lethithutrang","passWord":"123456hg","bankNumber":"346215131978","trueName":"LE THI THU TRANG"} dăng ký thành công 	-----liên kết bank thành công ---- 
+{"userName":"vuphamquang","passWord":"123456hg","bankNumber":"651170131978","trueName":"VU PHAM QUANG"} dăng ký thành công 	-----liên kết bank thành công ---- 
+{"userName":"ledinhquan","passWord":"123456hg","bankNumber":"493891316787","trueName":"LE DINH QUAN"} dăng ký thành công 	-----liên kết bank thành công ---- 
+{"userName":"nguyendinhquang","passWord":"123456hg","bankNumber":"525961316787","trueName":"NGUYEN DINH QUANG"} dăng ký thành công 	-----liên kết bank thành công ---- 
+{"userName":"huyenthithu","passWord":"123456hg","bankNumber":"578661316787","trueName":"HUYEN THI THU"} dăng ký thành công 	-----liên kết bank thành công ---- 
+{"userName":"nguyenducthinh","passWord":"123456hg","bankNumber":"855691316787","trueName":"NGUYEN DUC THINH"} dăng ký thành công 	{"userName":"trandinhkhanh","passWord":"123456hg","bankNumber":"695291316787","trueName":"TRAN DINH KHANH"} dăng ký thành công 	{"userName":"phanquocviet","passWord":"123456hg","bankNumber":"634371316787","trueName":"PHAN QUOC VIET"} dăng ký thành công 	
+{"userName":"hongthilananh","passWord":"123456hg","bankNumber":"175324374375","trueName":"HONG THI LAN ANH"} dăng ký thành công 	-----liên kết bank thành công ---- 
+{"userName":"dinhquangkhanh","passWord":"123456hg","bankNumber":"166154374375","trueName":"DINH QUANG KHANH"} dăng ký thành công 	-----liên kết bank thành công ---- 
+{"userName":"lethithanhthao","passWord":"123456hg","bankNumber":"219624374375","trueName":"LE THI THANH THAO"} dăng ký thành công 	-----liên kết bank thành công ---- 
+{"userName":"quachthanhthao","passWord":"123456hg","bankNumber":"803344374375","trueName":"QUACH THANH THAO"} dăng ký thành công 	-----liên kết bank thành công ---- 
+{"userName":"hoangthithao","passWord":"123456hg","bankNumber":"630024374375","trueName":"HOANG THI THAO"} dăng ký thành công 	
+{"userName":"dothikim","passWord":"123456hg","bankNumber":"594520437875","trueName":"DO THI KIM"} dăng ký thành công 	-----liên kết bank thành công ---- 
+{"userName":"vuphamvan","passWord":"123456hg","bankNumber":"962744437875","trueName":"VU PHAM VAN"} dăng ký thành công 	-----liên kết bank thành công ---- 
+{"userName":"huyenthibich","passWord":"123456hg","bankNumber":"508351437875","trueName":"HUYEN THI BICH"} dăng ký thành công 	-----liên kết bank thành công ---- 
+{"userName":"phamminhhoa","passWord":"123456hg","bankNumber":"629907437875","trueName":"PHAM MINH HOA"} dăng ký thành công 	-----liên kết bank thành công ---- 
+{"userName":"nguyenminhthu","passWord":"123456hg","bankNumber":"105983437875","trueName":"NGUYEN MINH THU"} dăng ký thành công 	-----liên kết bank thành công ---- 
+{"userName":"dinhminhthu","passWord":"123456hg","bankNumber":"113453416778","trueName":"DINH MINH THU"} dăng ký thành công 	-----liên kết bank thành công ---- 
+{"userName":"hoangminhthanh","passWord":"123456hg","bankNumber":"976101416778","trueName":"HOANG MINH THANH"} dăng ký thành công 	-----liên kết bank thành công ---- 
+{"userName":"trinhquangminh","passWord":"123456hg","bankNumber":"973647716778","trueName":"TRINH QUANG MINH"} dăng ký thành công 	-----liên kết bank thành công ---- 
+{"userName":"hongthimai","passWord":"123456hg","bankNumber":"311879516778","trueName":"HONG THI MAI"} dăng ký thành công 	-----liên kết bank thành công ---- 
+{"userName":"dinhminhhai","passWord":"123456hg","bankNumber":"688771616778","trueName":"DINH MINH HAI"} dăng ký thành công 	-----liên kết bank thành công ---- 
+{"userName":"vukimanh","passWord":"123456hg","bankNumber":"546029916778","trueName":"VU KIM ANH"} dăng ký thành công 	-----liên kết bank thành công ---- 
+{"userName":"truongthanhson","passWord":"123456hg","bankNumber":"41635137576","trueName":"TRUONG THANH SON"} dăng ký thành công 	-----liên kết bank thành công ---- 
+{"userName":"dinhthimai","passWord":"123456hg","bankNumber":"70267137576","trueName":"DINH THI MAI"} dăng ký thành công 	-----liên kết bank thành công ---- 
+{"userName":"dothanhtruc","passWord":"123456hg","bankNumber":"80729137576","trueName":"DO THANH TRUC"} dăng ký thành công 	-----liên kết bank thành công ---- 
+{"userName":"dinhthithanh","passWord":"123456hg","bankNumber":"35083137576","trueName":"DINH THI THANH"} dăng ký thành công 	-----liên kết bank thành công ---- 
+{"userName":"hongthiduyen","passWord":"123456hg","bankNumber":"48277137576","trueName":"HONG THI DUYEN"} dăng ký thành công 
+{"userName":"nguyenhoangthu","passWord":"123456hg","bankNumber":"27883137576","trueName":"NGUYEN HOANG THU"} dăng ký thành công 	-----liên kết bank thành công ---- 
+{"userName":"buihongnhung","passWord":"123456hg","bankNumber":"797952913789","trueName":"BUI HONG NHUNG"} dăng ký thành công 	{"userName":"tranthikim","passWord":"123456hg","bankNumber":"725579413789","trueName":"TRAN THI KIM"} dăng ký thành công 	{"userName":"hoangbichcham","passWord":"123456hg","bankNumber":"494621595919","trueName":"HOANG BICH CHAM"} dăng ký thành công 
+{"userName":"homicho","passWord":"123456hg","bankNumber":"292581595919","trueName":"HO MI CHO"} dăng ký thành công 	{"userName":"sungthibichha","passWord":"123456hg","bankNumber":"459031595919","trueName":"SUNG THI BICH HA"} dăng ký thành công 	-----liên kết bank thành công ---- 
+{"userName":"giangthihien","passWord":"123456hg","bankNumber":"299291595919","trueName":"GIANG THI HIEN"} dăng ký thành công 	{"userName":"luthihoa","passWord":"123456hg","bankNumber":"134181595919","trueName":"LU THI HOA"} dăng ký thành công 	-----liên kết bank thành công ---- 
+{"userName":"hungthuhuong","passWord":"123456hg","bankNumber":"425611595919","trueName":"HUNG THU HUONG"} dăng ký thành công 	-----liên kết bank thành công ---- 
+{"userName":"duongtamlong","passWord":"123456hg","bankNumber":"69201595919","trueName":"DUONG TAM LONG"} dăng ký thành công 	-----liên kết bank thành công ---- 
+{"userName":"longthituyetnga","passWord":"123456hg","bankNumber":"35221595919","trueName":"LONG THI TUYET NGA"} dăng ký thành công 	-----liên kết bank thành công ---- 
+{"userName":"hangvanphu","passWord":"123456hg","bankNumber":"45901595919","trueName":"HANG VAN PHU"} dăng ký thành công 	-----liên kết bank thành công ---- 
+{"userName":"hoangthuquy","passWord":"123456hg","bankNumber":"35631595919","trueName":"HOANG THU QUY"} dăng ký thành công 	-----liên kết bank thành công ---- 
+{"userName":"vuongthisang","passWord":"123456hg","bankNumber":"91001595919","trueName":"VUONG THI SANG"} dăng ký thành công 	-----liên kết bank thành công ---- 
+{"userName":"lanhongsinh","passWord":"123456hg","bankNumber":"53041595919","trueName":"LAN HONG SINH"} dăng ký thành công 	-----liên kết bank thành công ---- 
+{"userName":"nungthisong","passWord":"123456hg","bankNumber":"78311595919","trueName":"NUNG THI SONG"} dăng ký thành công 	-----liên kết bank thành công ---- 
+{"userName":"cungquangtho","passWord":"123456hg","bankNumber":"4021595919","trueName":"CUNG QUANG THO"} dăng ký thành công 	{"userName":"chuthuthuy","passWord":"123456hg","bankNumber":"4031595919","trueName":"CHU THU THUY"} dăng ký thành công 	{"userName":"hungquoctoan","passWord":"123456hg","bankNumber":"4041595919","trueName":"HUNG QUOC TOAN"} dăng ký thành công 
+	{"userName":"giangmitra","passWord":"123456hg","bankNumber":"4051595919","trueName":"GIANG MI TRA"} dăng ký thành công 	-----liên kết bank thành công ---- 
+{"userName":"muamitua","passWord":"123456hg","bankNumber":"4061595919","trueName":"MUA MI TUA"} dăng ký thành công 	-----liên kết bank thành công ---- 
+chưa liên kết bank 
+{"userName":"vuongthixa","passWord":"123456hg","bankNumber":"4081595919","trueName":"VUONG THI XA"} dăng ký thành công 	-----liên kết bank thành công ---- 
+{"userName":"phanthixuan","passWord":"123456hg","bankNumber":"430901595918","trueName":"PHAN THI XUAN"} dăng ký thành công 	-----liên kết bank thành công ---- 
+{"userName":"uthuyan","passWord":"123456hg","bankNumber":"518741595918","trueName":"U THUY AN"} dăng ký thành công 	-----liên kết bank thành công ---- 
+
